@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://racharak.github.io
 title: Teeradaj Racharak
-tagline: A log of everyday life
-description: Teeradaj Racharak
+tagline: Welcome to the personal website of Teeradaj Racharak
+description: Welcome to the personal website of Teeradaj Racharak
 paginate: 5
